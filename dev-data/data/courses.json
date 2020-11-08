@@ -1,0 +1,176 @@
+[
+    {
+        "_id": "5ec442c326487c072cf6ab5a",
+        "name": "javascript",
+        "description": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages",
+        "duration": "03",
+        "coverImage": "no-img.jpg",
+        "level": "beginners",
+        "ratingsAverage": 5,
+        "catagory": "programming",
+        "ratingsQuantity": 23,
+        "website": "https://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "233 Bay State Rd Boston MA 02215",
+        "createdby": "5c8a1dfa2f8fb814b56fa181",
+        "teachers": [
+            "5c8a22c62f8fb814b56fa18b",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "timesSold": 50,
+        "requirements": [
+            "A browser and text editor",
+            "Basic knowledge html of css",
+            "No coding experience is necessary",
+            "Any computer and OS will do"
+        ],
+        "boxDetail": "https://www.youtube.com/watch?v=1HakS7KsbCk",
+        "price": 100,
+        "discountPerc": "0"
+    },
+    {
+        "_id": "5ec442c326487c072cf6ab5b",
+        "name": "digital Marketing",
+        "description": "Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.",
+        "duration": "03",
+        "coverImage": "no-img.jpg",
+        "level": "beginners",
+        "ratingsAverage": 5,
+        "catagory": "marketing",
+        "ratingsQuantity": 23,
+        "website": "https://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "232 Bay State Rd Boston MA 02215",
+        "createdby": "5c8a1e1a2f8fb814b56fa182",
+        "teachers": [
+            "5c8a22c62f8fb814b56fa18b",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "timesSold": 20,
+        "requirements": [
+            "A browser and text editor",
+            "Basic knowledge html of css",
+            "No coding experience is necessary",
+            "Any computer and OS will do"
+        ],
+        "boxDetail": "https://www.youtube.com/watch?v=1HakS7KsbCk",
+        "price": 150,
+        "discountPerc": "0"
+    },
+    {
+        "_id": "5ec442c326487c072cf6ab5c",
+        "name": "facebook Marketing",
+        "description": "Facebook marketing refers to creating—and actively using—a Facebook page as a communications channel to maintain contact with and attract customers.",
+        "duration": "03",
+        "coverImage": "no-img.jpg",
+        "level": "intermediate",
+        "ratingsAverage": 4,
+        "catagory": "marketing",
+        "ratingsQuantity": 23,
+        "website": "https://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "233 Bay State Rd Boston MA 02215",
+        "createdby": "5c8a1ec62f8fb814b56fa183",
+        "teachers": [
+            "5c8a22c62f8fb814b56fa18b",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "timesSold": 10,
+        "requirements": [
+            "A browser and text editor",
+            "Basic knowledge html of css",
+            "No coding experience is necessary",
+            "Any computer and OS will do"
+        ],
+        "boxDetail": "https://www.youtube.com/watch?v=1HakS7KsbCk",
+        "price": 70,
+        "discountPerc": "0"
+    },
+    {
+        "_id": "5ec442c326487c072cf6ab5d",
+        "name": "youtube Marketing",
+        "description": "Not only is your audience on YouTube, but as the internet's second largest search engine, YouTube can help improve your SEO and overall brand presence.",
+        "duration": "03",
+        "coverImage": "no-img.jpg",
+        "level": "intermediate",
+        "ratingsAverage": 3,
+        "catagory": "marketing",
+        "ratingsQuantity": 23,
+        "website": "https://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "220 Pawtucket St, Lowell, MA 01854",
+        "createdby": "5c8a1f292f8fb814b56fa184",
+        "teachers": [
+            "5c8a22c62f8fb814b56fa18b",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "timesSold": 60,
+        "requirements": [
+            "A browser and text editor",
+            "Basic knowledge html of css",
+            "No coding experience is necessary",
+            "Any computer and OS will do"
+        ],
+        "boxDetail": "https://www.youtube.com/watch?v=1HakS7KsbCk",
+        "price": 70,
+        "discountPerc": "0"
+    },
+    {
+        "_id": "5ec442c326487c072cf6ab5e",
+        "name": "seo",
+        "description": "Search engine optimization is the process of increasing the quality and quantity of website traffic by increasing the visibility of a website or a web page to users of a web search engine.",
+        "duration": "01",
+        "coverImage": "no-img.jpg",
+        "level": "beginners",
+        "ratingsAverage": 5,
+        "catagory": "seo",
+        "ratingsQuantity": 23,
+        "website": "https://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "85 South Prospect Street Burlington VT 05405",
+        "createdby": "5c8a1f4e2f8fb814b56fa185",
+        "teachers": [
+            "5c8a22c62f8fb814b56fa18b",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "timesSold": 70,
+        "requirements": [
+            "A browser and text editor",
+            "Basic knowledge html of css",
+            "No coding experience is necessary",
+            "Any computer and OS will do"
+        ],
+        "boxDetail": "https://www.youtube.com/watch?v=1HakS7KsbCk",
+        "price": 110,
+        "discountPerc": "0"
+    },
+    {
+        "_id": "5ec442c326487c072cf6ab5f",
+        "name": "content Writing",
+        "description": "Content writing is the process of planning, writing and editing web content, typically for digital marketing purposes.",
+        "duration": "03",
+        "coverImage": "no-img.jpg",
+        "level": "advanced",
+        "ratingsAverage": 4,
+        "catagory": "writing",
+        "ratingsQuantity": 23,
+        "website": "https://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "220 Pawtucket St, Lowell, MA 01854",
+        "createdby": "5c8a23c82f8fb814b56fa18d",
+        "teachers": [
+            "5c8a22c62f8fb814b56fa18b",
+            "5c8a1f4e2f8fb814b56fa185"
+        ],
+        "timesSold": 10,
+        "requirements": [
+            "A browser and text editor",
+            "Basic knowledge html of css",
+            "No coding experience is necessary",
+            "Any computer and OS will do"
+        ],
+        "boxDetail": "https://www.youtube.com/watch?v=1HakS7KsbCk",
+        "price": 90,
+        "discountPerc": "0"
+    }
+]
